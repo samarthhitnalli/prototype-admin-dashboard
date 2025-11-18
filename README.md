@@ -137,7 +137,5 @@ Everything here is **UI + mock state logic** only.
 - Store, Inventory, Orders, Payments modules  
 - Admin auditing and logging  
 - Email service for sending temporary passwords  
-- Real analytics dashboard  
-
-# 📂 Project Structure
+- Real analytics dashboard
 
